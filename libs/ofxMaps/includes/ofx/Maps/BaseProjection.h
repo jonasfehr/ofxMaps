@@ -27,8 +27,8 @@
 
 
 #include "ofx/Geo/Coordinate.h"
-#include "ofx/Maps/Transformation.h"
-#include "ofx/Maps/TileCoordinate.h"
+#include "Transformation.h" //"ofx/Maps/Transformation.h"
+#include "TileCoordinate.h" // "ofx/Maps/TileCoordinate.h"
 
 
 namespace ofx {

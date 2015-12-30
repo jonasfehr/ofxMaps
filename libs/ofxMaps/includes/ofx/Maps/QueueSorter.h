@@ -27,7 +27,7 @@
 #pragma once
 
 
-#include "ofx/Maps/TileCoordinate.h"
+#include "TileCoordinate.h" // "ofx/Maps/TileCoordinate.h"
 
 
 namespace ofx {

@@ -26,8 +26,8 @@
 #pragma once
 
 
-#include "ofx/Maps/TileCoordinate.h"
-#include "ofx/Maps/Tile.h"
+#include "TileCoordinate.h" // "ofx/Maps/TileCoordinate.h"
+#include "Tile.h" // "ofx/Maps/Tile.h"
 #include "Poco/Task.h"
 
 

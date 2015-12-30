@@ -28,10 +28,10 @@
 
 #include "ofx/LRUCache.h"
 #include "ofx/TaskQueue.h"
-#include "ofx/Maps/AbstractMapTypes.h"
-#include "ofx/Maps/Tile.h"
-#include "ofx/Maps/TileCoordinate.h"
-#include "ofx/Maps/QueueSorter.h"
+#include "AbstractMapTypes.h" // "ofx/Maps/AbstractMapTypes.h"
+#include "Tile.h" //"ofx/Maps/Tile.h"
+#include "TileCoordinate.h" // "ofx/Maps/TileCoordinate.h"
+#include "QueueSorter.h" // "ofx/Maps/QueueSorter.h"
 
 
 namespace ofx {

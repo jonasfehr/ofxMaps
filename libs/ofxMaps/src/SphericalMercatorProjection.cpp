@@ -24,7 +24,7 @@
 // =============================================================================
 
 
-#include "ofx/Maps/SphericalMercatorProjection.h"
+#include "SphericalMercatorProjection.h" //  "ofx/Maps/SphericalMercatorProjection.h"
 
 
 

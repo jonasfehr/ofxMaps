@@ -30,7 +30,7 @@
 #include "Poco/AtomicCounter.h"
 #include "ofx/HTTP/DefaultClientTask.h"
 #include "ofx/IO/ByteBuffer.h"
-#include "ofx/Maps/BaseURITileProvider.h"
+#include "BaseURITileProvider.h" // "ofx/Maps/BaseURITileProvider.h"
 
 
 namespace ofx {

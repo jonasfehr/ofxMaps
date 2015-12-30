@@ -23,7 +23,7 @@
 // =============================================================================
 
 
-#include "ofx/Maps/OSMTileProviders.h"
+#include "OSMTileProviders.h" // "ofx/Maps/OSMTileProviders.h"
 
 
 namespace ofx {

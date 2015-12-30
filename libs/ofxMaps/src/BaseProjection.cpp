@@ -23,7 +23,8 @@
 // =============================================================================
 
 
-#include "ofx/Maps/BaseProjection.h"
+#include "BaseProjection.h"
+//#include "ofx/Maps/BaseProjection.h"
 
 
 namespace ofx {

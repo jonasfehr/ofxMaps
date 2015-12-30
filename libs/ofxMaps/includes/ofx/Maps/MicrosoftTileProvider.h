@@ -28,7 +28,7 @@
 #pragma once
 
 
-#include "ofx/Maps/BaseURLTileProvider.h"
+#include "BaseURLTileProvider.h" // "ofx/Maps/BaseURLTileProvider.h"
 
 
 namespace ofx {

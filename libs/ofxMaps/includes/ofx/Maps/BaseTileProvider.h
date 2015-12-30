@@ -28,10 +28,10 @@
 
 #include "ofVec2d.h"
 #include "ofx/Geo/Coordinate.h"
-#include "ofx/Maps/AbstractMapTypes.h"
-#include "ofx/Maps/BaseProjection.h"
-#include "ofx/Maps/SphericalMercatorProjection.h"
-#include "ofx/Maps/TileCoordinate.h"
+#include "AbstractMapTypes.h" // "ofx/Maps/AbstractMapTypes.h"
+#include "BaseProjection.h" // "ofx/Maps/BaseProjection.h"
+#include "SphericalMercatorProjection.h" //"ofx/Maps/SphericalMercatorProjection.h"
+#include "TileCoordinate.h"// "ofx/Maps/TileCoordinate.h"
 
 
 namespace ofx {

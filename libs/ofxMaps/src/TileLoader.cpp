@@ -23,7 +23,7 @@
 // =============================================================================
 
 
-#include "ofx/Maps/TileLoader.h"
+#include "TileLoader.h" // "ofx/Maps/TileLoader.h"
 
 
 namespace ofx {

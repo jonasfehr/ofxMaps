@@ -29,10 +29,10 @@
 #include <set>
 #include "ofBaseTypes.h"
 #include "ofFbo.h"
-#include "ofx/Maps/BaseTileProvider.h"
-#include "ofx/Maps/BaseURITileProvider.h"
-#include "ofx/Maps/TileCoordinate.h"
-#include "ofx/Maps/TileLoader.h"
+#include "BaseTileProvider.h" // "ofx/Maps/BaseTileProvider.h"
+#include "BaseURITileProvider.h" // "ofx/Maps/BaseURITileProvider.h"
+#include "TileCoordinate.h" // "ofx/Maps/TileCoordinate.h"
+#include "TileLoader.h" // "ofx/Maps/TileLoader.h"
 
 
 namespace ofx {

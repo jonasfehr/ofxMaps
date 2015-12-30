@@ -27,13 +27,13 @@
 #include "ofxGeo.h"
 
 // Tile Layers
-#include "ofx/Maps/TileLayer.h"
+#include "TileLayer.h" // "ofx/Maps/TileLayer.h"
 
 // Tile Loaders
-#include "ofx/Maps/TileLoader.h"
+#include "TileLoader.h" //  "ofx/Maps/TileLoader.h"
 
 // Tile Providers
-#include "ofx/Maps/BaseTileProvider.h"
-#include "ofx/Maps/OSMTileProviders.h"
-#include "ofx/Maps/GoogleTileProvider.h"
-#include "ofx/Maps/MicrosoftTileProvider.h"
+#include "BaseTileProvider.h" // "ofx/Maps/BaseTileProvider.h"
+#include "OSMTileProviders.h" // "ofx/Maps/OSMTileProviders.h"
+#include "GoogleTileProvider.h" //  "ofx/Maps/GoogleTileProvider.h"
+#include "MicrosoftTileProvider.h" //  "ofx/Maps/MicrosoftTileProvider.h"

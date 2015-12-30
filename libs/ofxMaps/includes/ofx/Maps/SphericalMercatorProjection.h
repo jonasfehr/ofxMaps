@@ -27,7 +27,7 @@
 #pragma once
 
 
-#include "ofx/Maps/BaseProjection.h"
+#include "BaseProjection.h" // "ofx/Maps/BaseProjection.h"
 
 
 namespace ofx {

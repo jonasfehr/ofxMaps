@@ -32,7 +32,7 @@
 #include "Poco/FileStream.h"
 #include "Poco/TaskNotification.h"
 #include "Poco/URI.h"
-#include "ofx/Maps/BaseTileProvider.h"
+#include "BaseTileProvider.h" // "ofx/Maps/BaseTileProvider.h"
 #include "ofFileUtils.h"
 #include "ofImage.h"
 

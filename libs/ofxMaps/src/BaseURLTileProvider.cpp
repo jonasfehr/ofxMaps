@@ -23,7 +23,7 @@
 // =============================================================================
 
 
-#include "ofx/Maps/BaseURLTileProvider.h"
+#include "BaseURLTileProvider.h" // "ofx/Maps/BaseURLTileProvider.h"
 #include "Poco/NumberFormatter.h"
 #include "Poco/String.h"
 #include "Poco/UTF8Encoding.h"

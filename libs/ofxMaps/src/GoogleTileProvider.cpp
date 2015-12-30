@@ -23,7 +23,7 @@
 // =============================================================================
 
 
-#include "ofx/Maps/GoogleTileProvider.h"
+#include "GoogleTileProvider.h" //  "ofx/Maps/GoogleTileProvider.h"
 
 
 namespace ofx {
